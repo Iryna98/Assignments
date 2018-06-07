@@ -9,4 +9,5 @@ assigment 6 = https://github.com/Iryna98/Assignments/blob/master/Graded_assignme
 assigment 7 = https://github.com/Iryna98/Assignments/blob/master/Graded_assignment_2.ipynb
 
 Final Exam Python = https://github.com/Iryna98/Assignments/blob/master/exam_june_7_2018-2.ipynb
+
 Final Exam R = https://github.com/Iryna98/Assignments/blob/master/Exam_student-2-4.ipynb
