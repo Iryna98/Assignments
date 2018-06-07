@@ -7,3 +7,5 @@ assigment 4 = https://github.com/Iryna98/Assignments/blob/master/assignment4.ipy
 assigment 6 = https://github.com/Iryna98/Assignments/blob/master/Graded_assignment1.ipynb
 
 assigment 7 = https://github.com/Iryna98/Assignments/blob/master/Graded_assignment_2.ipynb
+
+Final Exam Python = https://github.com/Iryna98/Assignments/blob/master/exam_june_7_2018-2.ipynb
